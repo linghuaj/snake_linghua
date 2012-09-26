@@ -2,7 +2,7 @@
 
 snake = {}
 local snakebody;
-local step=5;
+local step=10;
 
 
 function snake:new()
